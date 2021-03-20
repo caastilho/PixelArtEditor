@@ -1,2 +1,2 @@
-# PIxelArtEditor
-PIxel art editor and animator with SFML/C++
+# PixelArtEditor
+Pixel art editor and animator with SFML/C++
